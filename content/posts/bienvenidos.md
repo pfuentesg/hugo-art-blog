@@ -2,7 +2,7 @@
 ---
 title: "¡Beinvenidos!"
 date: 2023-05-15T17:08:33+02:00
-draft: true
+draft: false
 ---
 ![Dibujo de una tienda](/shop.png)
 
