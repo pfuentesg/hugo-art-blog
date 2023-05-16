@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arte hasta decir basta</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Arte hasta decir basta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 May 2023 17:08:33 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¡Beinvenidos!</title>
+      <link>http://example.org/posts/bienvenidos/</link>
+      <pubDate>Mon, 15 May 2023 17:08:33 +0200</pubDate>
+      
+      <guid>http://example.org/posts/bienvenidos/</guid>
+      <description>¡Bienvenidos al nuevo blog Arte hasta decir basta!
+Te damos la bienvenida a este espacio dedicado a explorar y disfrutar del fascinante mundo del arte en todas sus formas. Desde la pintura y la escultura hasta la fotografía y el arte digital, aquí encontrarás contenido inspirador y enriquecedor sobre el arte contemporáneo y clásico.
+En nuestro blog, nos enfocamos en acercarte a las expresiones artísticas más relevantes y cautivadoras, tanto a nivel nacional como internacional.</description>
+    </item>
+    
+  </channel>
+</rss>
