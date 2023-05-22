@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'Arte hasta decir basta'
 theme = 'ananke'
 googleAnalytics = "G-FSVBN1N3B9"
+canonifyURLs = true
+[markup.goldmark.renderer]
+unsafe= true
