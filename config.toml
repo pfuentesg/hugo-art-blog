@@ -7,3 +7,6 @@ canonifyURLs = true
 enableRobotsTXT = true
 [markup.goldmark.renderer]
 unsafe= true
+
+[params]
+  Description = "El rincon para los curiosos del arte y su evolución"
