@@ -1,5 +1,5 @@
 ---
-title: Explorando las Posibilidades Creativas del Arte Creado por IA"
+title: Explorando las Posibilidades Creativas del Arte Creado por IA
 date: 2023-05-28T21:35:39+02:00
 draft: false
 ---
