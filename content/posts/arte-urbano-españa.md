@@ -1,6 +1,6 @@
 ---
 title: "El Arte Urbano en España: Una Explosión Creativa en las Calles"
-date: 2023-06-13T17:00:400+02:00
+date: 2023-06-19T17:00:400+02:00
 draft: true
 ---
 
